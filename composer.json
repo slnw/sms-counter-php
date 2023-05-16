@@ -1,5 +1,5 @@
 {
-    "name": "instasent/sms-counter-php",
+    "name": "slnw/sms-counter-php",
     "type": "library",
     "description": "SMS Counter PHP Class Library which detects encoding of an SMS message text, counts the characters as per the encoding and gives page limit information.",
     "keywords": ["SMS", "counter", "GSM", "Unicode", "Mobile"],
